@@ -1,0 +1,36 @@
+# Ignore Forge build directory
+forge/build/
+
+# Ignore Forge cache directory
+forge/.cache/
+
+# Ignore Forge configuration files
+forge/config/
+
+# Ignore Forge logs
+forge/logs/
+
+# Ignore local Node.js packages
+node_modules/
+
+# Ignore compiled contracts
+build/
+ 
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows Thumbs.db file
+Thumbs.db
+**/cache/**
+**/out/**
+**/bin/**
+**/lib/**
+
+# Compiler files
+cache/
+out/
+bin/
+lib/
+.vscode
+.idea
+
