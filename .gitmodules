@@ -1,7 +1,0 @@
-[submodule "5-escrow/escrow/lib/forge-std"]
-	path = 5-escrow/escrow/lib/forge-std
-	url = https://github.com/foundry-rs/forge-std
-[submodule "11-Reentracy-attack/lib/forge-std"]
-	path = 11-Reentracy-attack/lib/forge-std
-[submodule "11-Reentracy-attack/0-attack/lib/forge-std"]
-	path = 11-Reentracy-attack/0-attack/lib/forge-std
